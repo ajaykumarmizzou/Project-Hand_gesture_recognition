@@ -1,4 +1,4 @@
-## Project-Hand_gesture_recognition_project
+## Project-Hand_gesture_recognition
 
 American-sign language has 24 static hand gestures corresponds to English alphabet (except J, Z having motion gestures).
 This is more related to MNIST-recognition task.
