@@ -8,5 +8,6 @@ Image/example– 28 x 28 – 784pixels, where each pixel value lies from 0 to 25
 
 The "dataset.zip" contains sign mnist images of training and testing dataset along with labels in .csv files.
 The "script.py" contains the code for data preprocessing, model training and prediction.
-
-![alt text](https://github.com/xenificity/Project-Hand_gesture_recognition_project/blob/main/reference_image.png)
+<p align="center">
+  <img src="https://github.com/xenificity/Project-Hand_gesture_recognition_project/blob/main/reference_image.png" />
+</p>
